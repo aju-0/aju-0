@@ -2,7 +2,7 @@
   <img  src="GitHub_CoverPic_Ajay_Dev.png"/>
 </p>
 
-<img align="right" style="width:16rem; height:auto" src="logo-removebg-preview.png"/>
+<img align="right" style="width:16rem; height:auto" src="stray-coding.gif"/>
 
 - 🚀  Currently immersed in learning **MERN Stack Development**
   

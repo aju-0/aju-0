@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="MOSHED.gif" width=100%/>
+  <img  src="GitHub_CoverPic_Ajay_Dev.png"/>
 </p>
 
 <img align="right" style="width:25rem; height:auto" src="logo-removebg-preview.gif"/>

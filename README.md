@@ -227,12 +227,12 @@
 
 <!-- ---- -->
 
-<!-- <div align="center">
+<div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=achuntelolan&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aju-0)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=achuntelolan&theme=material-palenight)](https://github.com/aju-0)
-</div> -->
+[![](https://github-readme-stats.vercel.app/api?username=aju-0&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aju-0)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=aju-0&theme=material-palenight)](https://github.com/aju-0)
+</div>
 
 ----
 

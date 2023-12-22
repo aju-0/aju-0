@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="MOSHED.gif"/>
+  <img  src="MOSHED.gif" width=100%/>
 </p>
 
 <img align="right" style="width:25rem; height:auto" src="logo-removebg-preview.gif"/>
